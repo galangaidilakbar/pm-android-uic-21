@@ -1,0 +1,20 @@
+<resources>
+    <!--    The Name Of Application Will be-->
+    <string name="app_name">5190411250</string>
+    <!--    Heading-->
+    <string name="h_node">NodeJS</string>
+    <string name="h_npm">npmJS</string>
+    <string name="h_react">ReactJS</string>
+    <string name="h_vue">VueJS</string>
+    <string name="h_next">NextJS</string>
+    <!--    Descriptions-->
+    <string name="d_node">Node.js® is a JavaScript runtime built on Chrome\'s V8 JavaScript engine.</string>
+    <string name="d_npm">npm is a package manager for the JavaScript programming language maintained by npm, Inc.</string>
+    <string name="d_react">React is a declarative, efficient, and flexible JavaScript library for building user interfaces.</string>
+    <string name="d_vue">Vue.js is a progressive framework for building user interfaces.</string>
+    <string name="d_next">Next. js is a React framework for developing single page Javascript applications</string>
+    <string name="cd_node">NodeJS Logo</string>
+    <string name="cd_laravel">Laravel Logo</string>
+    <string name="h_laravel">Laravel</string>
+    <string name="d_laravel">Laravel is primarily used for building custom web apps using PHP.</string>
+</resources>
